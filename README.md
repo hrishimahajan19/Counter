@@ -7,12 +7,12 @@ _ _ _
 
 The project is built using the following framework:
 
-< [Spring Boot](https://spring.io/projects/spring-boot)
+> [Spring Boot](https://spring.io/projects/spring-boot)
 _ _ _
 
 ## Language Used
 
-< [Java](https://www.java.com/en/)
+> [Java](https://www.java.com/en/)
 _ _ _ 
 
 ## Data Flow
